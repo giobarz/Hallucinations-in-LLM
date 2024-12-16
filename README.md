@@ -1,1 +1,3 @@
-# Hallucinations-in-LLM
+# Hallucinations in Large Language Models
+This project explores the phenomenon of hallucinations in large language models (LLMs), a critical challenge for both researchers and users. It provides an overview of LLMs, their functioning, and the role of Reinforcement Learning from Human Feedback (RLHF). The analysis delves into defining hallucinations, uncovering their root causes, detection methods, and recent mitigation strategies developed by researchers. Additionally, the project examines the reasoning capabilities of LLMs through the ARC dataset, a benchmark for evaluating logical reasoning. This work underscores the complexity of addressing hallucinations and highlights ongoing challenges in improving LLMs' performance and reliability.
+
